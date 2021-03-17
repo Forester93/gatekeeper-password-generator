@@ -4,9 +4,9 @@ var generateBtn = document.querySelector("#generate");
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();
-  alert('Your password is' + password +'\nYou can copy it from the textbox on this page.');
+  // alert('Your password is' + password +'\nYou can copy it from the textbox on this page.');
   var passwordText = document.querySelector("#password");
-
+  // Write the password to the textbox in the page.
   passwordText.value = password;
 
 }
