@@ -17,6 +17,9 @@ body {
   background-color: #f9fbfd;
 }
 
+h1{
+  font-size:200%;
+}
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;

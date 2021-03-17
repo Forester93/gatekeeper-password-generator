@@ -33,5 +33,8 @@ You need to click on the 'Generate Password Button'. The browser will ask you wh
 ### Third Commit
 • Gave repository a unique name.
 • Changed title on the html page.
+• Changed the contents of the h1 tag inside the html to reflect the unique name for the application.
 • Linked README.md to the screenshot of the page.
 • Final test of the functionality of the deployed application.
+### Fourth Commit
+• Assigned a larger fontsize to h1 tag inside the style.css file.
